@@ -21,5 +21,11 @@ Pandas is Python's Data Analytics Library - it helps to read the data from CSV, 
  
 I had finished Numpy and Pandas in Dphi's modules. So I have got a basic understanding of working with these Libraries.
 
+Day 4 -- 6th JAN 2020 :
+Continuing I learned about Python's Data Visualization libraries Matplotlib and Seaborn. Matplotlib enables us to visualize our data to graphs - Scatter plot, Bar graph, Histogram, Box plot, and Pie Chart. All have their significance. Bar Graph helps us to compare by visualizing the categorical Data, while Histogram shows the distribution of Data in a range grouped into bins.
+
+Seaborn is the extension of Matplotlib, it helps us with the Statistical analysis and visualization of data. Knowledge of Statistics is crucial in Seaborn. 
+
+This repository is the motivation for me to not give up and continue the journey to Data Science. Following now I would be learning EDA (Exploratory Data Analysis) and Statistics. Maths and Statistics are crucial for Data Science. It is just the start.
  
  
