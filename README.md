@@ -27,5 +27,21 @@ Continuing I learned about Python's Data Visualization libraries Matplotlib and 
 Seaborn is the extension of Matplotlib, it helps us with the Statistical analysis and visualization of data. Knowledge of Statistics is crucial in Seaborn. 
 
 This repository is the motivation for me to not give up and continue the journey to Data Science. Following now I would be learning EDA (Exploratory Data Analysis) and Statistics. Maths and Statistics are crucial for Data Science. It is just the start.
+
+Day 5 -- 7th JAN 2020 :
+The most important thing is to extract viable Data from our raw Data set. Preprocessing our data, finding the missing values, analyzing and filling the missing values accordingly is the basic step of EDA. It is the most important and time-consuming task before proceeding with modelling our Data for Machine Learning or deriving insights from it.
+EDA is all about practice. The more we expose ourselves to it, the better we become. Now before proceeding, the next thing we will be doing is working with some Data set.
  
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
