@@ -32,9 +32,11 @@ Day 5 -- 7th JAN 2020 :
 The most important thing is to extract viable Data from our raw Data set. Preprocessing our data, finding the missing values, analyzing and filling the missing values accordingly is the basic step of EDA. It is the most important and time-consuming task before proceeding with modelling our Data for Machine Learning or deriving insights from it.
 EDA is all about practice. The more we expose ourselves to it, the better we become. Now before proceeding, the next thing we will be doing is working with some Data set.
  
+Day 6 and 7 -- 9th JAN 2020 :
+Started with the Statistics playlist, got to know about the basics of Statistics - Population v/s Sample, Gaussian distribution and log Normal distribution, Measure of Central tendency, their significance and reasons to use them.
 
-
-
+Today was the weekend so I got the time to get to work with Data. I have tried to do an EDA of the Titanic Data Set from Kaggle. 
+Reading Data, getting basic details about the data, handling the missing values, and trying to fill the missing values. This is pre-processing our Raw Data.
 
 
 
