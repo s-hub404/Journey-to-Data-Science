@@ -38,8 +38,8 @@ Started with the Statistics playlist, got to know about the basics of Statistics
 Today was the weekend so I got the time to get to work with Data. I have tried to do an EDA of the Titanic Data Set from Kaggle. 
 Reading Data, getting basic details about the data, handling the missing values, and trying to fill the missing values. This is pre-processing our Raw Data.
 
-
-
+Day 8 -- 10th JAN 2020 :
+Studied about Statistical concepts like Central limit theorem, Chebyshev's inequality, Covariance, it's modification Pearson CC and Spearman Rank CC, their properties.
 
 
 
