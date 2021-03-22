@@ -42,6 +42,12 @@ Day 8 -- 10th JAN 2020 :
 Studied about Statistical concepts like Central limit theorem, Chebyshev's inequality, Covariance, it's modification Pearson CC and Spearman Rank CC, their properties.
 
 
+22 March 2021 :
+I have given myself time to study and prepare the concepts, worked hard my ways to learn Python, Statsistics, Tableau. The next one month I will commit myself to commit the changes in Git and keep working on my projects.
+Yes, there is stil lot to learn but more so it is equally important to apply this knowledge into actions.
+
+
+
 
 
 
